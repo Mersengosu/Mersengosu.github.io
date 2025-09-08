@@ -2,12 +2,10 @@ name: Herring Cove
 author: Herring Cove
 baseurl: /herring-cove
 description: theme for jekyll
-github: http://www.github.com/arnp
-twitter: http://www.twitter.com/
-facebook: http://www.facebook.com
-linkedin: http://www.linkedin.com
-email: rnpatel[at]me.com
-location: 42°2'16"N   70°12'47"W
+github: http://www.github.com/hjpark83
+linkedin: http://www.linkedin.com/in/hyunjoon83
+email: hyunjoonpark0803@gmail.com
+location: 37.5665°N   126.9780°W
 disqus: diqus-username
 
 ##Make sure to edit the above fields, especially for disqus.
