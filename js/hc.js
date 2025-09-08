@@ -3,14 +3,9 @@ $(document).ready(function() {
     $(".container").fadeIn('5000');
     $(".showcase-wrapper").hide();
     $(".showcase-wrapper").fadeIn("slow");
-
-    $('.nav-toggle').on('click', function () {
-        $('#wrapper').toggleClass('active');
-    });
 });
 
 
-/*
 var toggle = false;
 $('.nav-toggle').on('click', function () {
     if (toggle == false) {
@@ -25,7 +20,6 @@ $('.nav-toggle').on('click', function () {
         toggle = false;
     }
 });
-*/
 
 $(function() {
     $('.project-box').click(function() {
