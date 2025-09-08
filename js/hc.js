@@ -3,6 +3,10 @@ $(document).ready(function() {
     $(".container").fadeIn('5000');
     $(".showcase-wrapper").hide();
     $(".showcase-wrapper").fadeIn("slow");
+
+    $('.nav-toggle').on('click', function () {
+        $('#wrapper').toggleClass('active');
+    });
 });
 
 
